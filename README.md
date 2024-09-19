@@ -9,8 +9,8 @@
     </a>
 </div>
 
----
+<br>
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=nytrez&icon=1&color=10" /?
+    <img src="https://visitcount.itsvg.in/api?id=nytrez&icon=1&color=6" /?
 </div>
